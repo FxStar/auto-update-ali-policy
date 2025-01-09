@@ -1,0 +1,11 @@
+{
+    "regionId": "",
+    "accessKeyId": "",
+    "accessKeySecret": "",
+    "securityGroupId": "",
+    "ipProtocol": "tcp",
+    "portRange": "22/22",
+    "priority": "1",
+    "policy": "accept",
+    "lastIp": ""
+}
